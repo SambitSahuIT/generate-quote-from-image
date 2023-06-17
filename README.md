@@ -1,0 +1,1 @@
+# generate-quote-from-image
